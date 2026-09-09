@@ -25,7 +25,7 @@ public class MobilePhoneRecord {
         double price = scanner.nextDouble();
 
         System.out.println();
-        System.out.printlnLine("DISPLAYING PHONE SPECIFICATIONS...");
+        System.out.println("DISPLAYING PHONE SPECIFICATIONS...");
         System.out.println("Brand: " + brand);
         System.out.println("Model: " + model);
         System.out.println("RAM: " + ramCapacity + " GB");
